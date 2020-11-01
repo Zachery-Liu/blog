@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.zachery-liu.xyz</id>
     <title>ZacheryLiu&apos;s Blog</title>
-    <updated>2020-11-01T06:36:20.379Z</updated>
+    <updated>2020-11-01T06:41:17.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.zachery-liu.xyz"/>
     <link rel="self" href="https://www.zachery-liu.xyz/atom.xml"/>
@@ -22,18 +22,14 @@
 <h2 id="关于本站">🏠 关于本站</h2>
 <p>是我的个人博客，会在这里写一些随笔，分享经验什么的，也会有教程类的内容</p>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<pre><code>   天津的处女座学生党一枚，周一到周五都上学的那种
-   生日是八月二十五号，欢迎给我庆生
-</code></pre>
+<p>天津的处女座学生党一枚，周一到周五都上学的那种<br>
+生日是八月二十五号，欢迎给我庆生</p>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<pre><code>  打游戏、写代码......
-</code></pre>
+<p>打游戏、写代码......</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
-<pre><code>  加友链可以在文章下面留言
-  个人邮箱  Zachery_Liu@Outlook.com
-                  ZacheryLiu825@Gmail.com
-   QQ 2541858309(没有重要事情就给我发邮件就好)
-</code></pre>
+<p>加友链可以在文章下面留言<br>
+个人邮箱  Zachery_Liu@Outlook.com<br>
+ZacheryLiu825@Gmail.com</p>
 ]]></content>
     </entry>
 </feed>
